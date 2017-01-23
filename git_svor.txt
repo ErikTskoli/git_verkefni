@@ -25,3 +25,5 @@
 5.	Hverjir eru helstu kostir við að nota GIT? Enga hugmynd
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? Ég hef enga skoðun um það
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT? Hættu að spyrja mig, ég veit það ekki
