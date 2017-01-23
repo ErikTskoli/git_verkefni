@@ -13,3 +13,9 @@
 	git status   -- Enga fokking hugmynd
 	git diff     -/
 	git checkout -|
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+	Ég hef ekki lært neitt af þessu, af hverju gerirðu ráð fyrir því að ég viti þetta shit?
