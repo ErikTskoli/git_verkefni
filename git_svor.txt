@@ -19,3 +19,5 @@
 	b) git diff --staged 
 	c) git diff commit1 commit2
 	Ég hef ekki lært neitt af þessu, af hverju gerirðu ráð fyrir því að ég viti þetta shit?
+
+4. 	Hvað er útgáfustýring (e.version control)? Ved ikke
