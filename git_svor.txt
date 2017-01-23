@@ -21,3 +21,5 @@
 	Ég hef ekki lært neitt af þessu, af hverju gerirðu ráð fyrir því að ég viti þetta shit?
 
 4. 	Hvað er útgáfustýring (e.version control)? Ved ikke
+
+5.	Hverjir eru helstu kostir við að nota GIT? Enga hugmynd
