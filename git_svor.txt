@@ -1,1 +1,9 @@
 #Git dputningar og svör
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd    - Navigatar í möppu
+	cd ~  - no fucking clue
+	ls    - no fucking clue
+	pwd   - no fucking clue
+	mkdir - Býr til nýja möppu
+
