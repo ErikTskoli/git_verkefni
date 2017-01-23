@@ -30,4 +30,6 @@
 
 8.	Hvenær er sniðugt að nota greinar (branches)? Hvað er það?
 
-9.	Hver fann upp GIT? Er ekki kannski gott að segja mér mér hvað í fokkanum Git er áður enn þú segir mér hver bjó það til?
+9.	Hver fann upp GIT? Er ekki kannski gott að segja mér mér hvað í fokkanum Git er áður enn þú segir mér hver bjó það til
+
+10.	Hvar er GIT helst notað? Idk
