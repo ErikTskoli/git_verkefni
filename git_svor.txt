@@ -7,3 +7,9 @@
 	pwd   - no fucking clue
 	mkdir - Býr til nýja möppu
 
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone    -|
+	git log      -\
+	git status   -- Enga fokking hugmynd
+	git diff     -/
+	git checkout -|
