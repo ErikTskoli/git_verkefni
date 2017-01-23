@@ -29,3 +29,5 @@
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT? Hættu að spyrja mig, ég veit það ekki
 
 8.	Hvenær er sniðugt að nota greinar (branches)? Hvað er það?
+
+9.	Hver fann upp GIT? Er ekki kannski gott að segja mér mér hvað í fokkanum Git er áður enn þú segir mér hver bjó það til?
