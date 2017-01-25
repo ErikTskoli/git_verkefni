@@ -4,3 +4,10 @@
 	ls    - Skoðar hvað er í current directoríinu
 	pwd   - Skoðar hvar þú ert
 	mkdir - Býr til möppu
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone    - Klónar verkefni milli notanda
+	git log      - Sýnir allar skrárnar maður hefur committað
+	git status   - Athugar stöðuna
+	git diff     - Athuga hvort það sé munur milli skjala
+	git checkout - Færir þig á milli skjala
