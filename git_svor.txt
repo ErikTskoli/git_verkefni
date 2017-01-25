@@ -1,0 +1,6 @@
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd    - Fer í nýtt directory
+	cd ~  - Fer í root directoríið
+	ls    - Skoðar hvað er í current directoríinu
+	pwd   - Skoðar hvar þú ert
+	mkdir - Býr til möppu
